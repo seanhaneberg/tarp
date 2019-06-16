@@ -14,18 +14,22 @@ Vestal who betrayed her father and early Rome to the Sabines--a tribe with a
 significant settlment on a hill to the northeast.
 
 There are variations on the exact story, but the Romans believed that, shortly
-after the founding of the Rome, in the final battle following the Rape of the
-Sabines, Tarpiea allowed Sabine soliders into the new citadel on the Capitoline
-Hill, where the non-combatant population of Rome hid. Romulus had charged
-Tarpiea's father with defending this citadel, making her betrayal of Rome also a
-betrayal of her father.
+after the founding of the Rome, in the final battle following the mass
+kidnapping of women from neighboring towns (see [Rape of the Sabines](https://en.wikipedia.org/wiki/The_Rape_of_the_Sabine_Women
+and [Raptio](https://en.wikipedia.org/wiki/Raptio)), Tarpiea allowed Sabine
+soliders into the new citadel on the Capitoline Hill, where the non-combatant
+population of Rome hid. Romulus had charged Tarpiea's father with defending this
+citadel, making her betrayal of Rome also a betrayal of her father.
 
 After the Sabines secured access to the citadel, Tarpeia sought her payment--the
 jewelery the Sabine fighters were known for wearing on their left arms. Instead,
-they crushed her by piling their shields (also worn on the left arms) crushing
-her. Accounts vary on her precise fate, but in all of them she's crushed. In
-some accounts, she--or perhaps, just her corpse--was thrown off of an 80ft cliff
-on the Capitoline Hill. In other versions she's buried either at the base In which now bears her name--the Tarpeian Rock.
+they crushed her using their shields, which they also wore on the left arms.
+Accounts vary on her precise fate, but in all of them she's crushed and killed.
+
+In some accounts, she--or perhaps, just her corpse--was thrown off of an 80ft
+cliff on the Capitoline Hill. In other versions she's buried either at the base
+of it or near the precipice. Whatever her exact fate, the cliff now bears her
+name--the Tarpeian Rock.
 
 She would be the first to be executed in this manner. For hundreds of years
 subsequently, the Roman state executed traitors and other criminals by throwing
@@ -46,7 +50,9 @@ By appearing on a coin with Tarpeia, Augustus made further use of her story in
 order to communicate:
 
 - I am powerful enough to order coins with my face it.
+
 - I am as much part of Rome and its history as its foundational myths.
+
 - I am happy to be associated with Rome's long tradition of severely punishing
   traitors.
 
@@ -105,8 +111,11 @@ So, this makes Tarpeia's Rome a "brand-new" thing experiement compared to the
 following older--and perhaps sacred--things in her life:
 
 - Tarpeia's oath to Vesta and obligations to that order
+
 - The nearby Sabine settlement
+
 - The Sabine families culture and history
+
 - Other older cities in the Latin League (such as Lavinium and Alba Longa),
   which perhaps already had their own epic, legendary founding stories.
 
@@ -141,11 +150,12 @@ ambiguity in loyalty.
 #### Tarpeia's Obligations to Vesta--Home, Hearth, and Family
 
 Vesta is the goddess of the hearth and home an family. Through ceremonies and
-rites, they provide concrete services, such as maintaining a sacred fire from
-which ordinary people could light their hearths. They also provide several
-religious services, ensuring that the gods, Vesta in particular, will bless the
+rites, Vestals provide concrete services, such as maintaining a sacred fire from
+which ordinary people could light their hearths. They also perform several
+religious functions, ensuring that the gods, Vesta in particular, will bless the
 associated households.
 
 To ordinary people, Rome's kidnapping of the Sabine women was terrifying an
 unacceptable. As a Vestal, Tarpeia must have found their disregard for Home,
-Hearth and Family as not just wrong, but sacriliegous.
+Hearth and Family as not just wrong, but a sacriliegous betrayal of universal
+values.
